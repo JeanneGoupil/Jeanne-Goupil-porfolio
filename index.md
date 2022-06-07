@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Compétence 1 : Établir une méthodologie de recherche](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Compétence 2 : Gestion de projet](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Compétence 3 : Communication](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
